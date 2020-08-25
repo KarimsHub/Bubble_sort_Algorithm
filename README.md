@@ -24,4 +24,4 @@ NOTE: Repeat the above steps (n-1) times
 - does not deal well with a list containing a huge number of Elements
 - requires O(n^2) for every n number of elements to be sorted
 
-[Example Bubble Sort](KarimsHub.github.com/Bubble_sort_Algorithm/bubble_sort_example.png)
+![ImgName](https://github.com/KarimsHub/Bubble_sort_Algorithm/blob/master/bubble_sort_example.png?raw=true)
